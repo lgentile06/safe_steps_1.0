@@ -1,6 +1,0 @@
-version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-options: "4d84c863954d4311afe8f05b70cdbb34"
-build_time: [554397927, 113493000]
-inputs:
-  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Maps Direction/ViewController.swift": [554397689, 0]
-  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Maps Direction/AppDelegate.swift": [554397689, 0]
