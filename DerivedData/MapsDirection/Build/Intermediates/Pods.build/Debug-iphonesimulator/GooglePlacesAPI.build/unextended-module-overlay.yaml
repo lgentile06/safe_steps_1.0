@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': '/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/GooglePlacesAPI/GooglePlacesAPI.framework/Modules'
+    'name': '/Users/elizabethgentile/Desktop/safe_steps_1.0/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/GooglePlacesAPI/GooglePlacesAPI.framework/Modules'
     'contents': [{
       'type': 'file',
       'name': 'module.modulemap',
-      'external-contents': '/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Intermediates/Pods.build/Debug-iphonesimulator/GooglePlacesAPI.build/unextended-module.modulemap',
+      'external-contents': '/Users/elizabethgentile/Desktop/safe_steps_1.0/DerivedData/MapsDirection/Build/Intermediates/Pods.build/Debug-iphonesimulator/GooglePlacesAPI.build/unextended-module.modulemap',
     }]
   }]
 }
