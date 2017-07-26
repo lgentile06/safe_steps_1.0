@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "8d82c9ff65d622ca799bfcf0fd591405"
+build_time: [554397921, 880969000]
+inputs:
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Core/ObjectMapperTransformers/DateTransformInteger.swift": [554397691, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Core/Dictionary+Extensions.swift": [554397691, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Core/GoogleMapsService.swift": [554397691, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Google Places API/GooglePlaces.swift": [554397691, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Core/ObjectMapperTransformers/LocationCoordinate2DTransform.swift": [554397691, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Google Places API/PlaceAutocompleteResponse.swift": [554397691, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Google Places API/PlaceDetailsResponse.swift": [554397691, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Core/SharedTypes.swift": [554397691, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/GooglePlacesAPI/Source/Google Places API/Types.swift": [554397691, 0]

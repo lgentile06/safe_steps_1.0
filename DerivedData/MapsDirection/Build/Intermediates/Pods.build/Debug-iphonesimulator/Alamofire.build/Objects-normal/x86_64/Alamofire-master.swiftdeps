@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "eb20c47633d1b3fba3c822d584887b63"
+build_time: [554397907, 406957000]
+inputs:
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/AFError.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/Alamofire.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/MultipartFormData.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/Notifications.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/ParameterEncoding.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/Request.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/Response.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/ResponseSerialization.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/Result.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/ServerTrustPolicy.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/SessionDelegate.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/SessionManager.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/TaskDelegate.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/Timeline.swift": [554397689, 0]
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/Alamofire/Source/Validation.swift": [554397689, 0]

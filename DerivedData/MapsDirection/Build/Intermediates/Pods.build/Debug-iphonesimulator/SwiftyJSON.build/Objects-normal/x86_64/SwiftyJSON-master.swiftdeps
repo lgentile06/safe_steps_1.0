@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "c9de1565a54f43194b4f3c5e32843d1c"
+build_time: [554397915, 62725000]
+inputs:
+  "/Users/elizabethgentile/Desktop/Google-Maps-Direction/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [554397693, 0]

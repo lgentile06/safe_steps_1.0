@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "142de88f6fd9f1394bf542139e04a187"
+build_time: [554406677, 242735000]
+inputs:
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/CustomDateFormatTransform.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/DataTransform.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/DateFormatterTransform.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/DateTransform.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/DictionaryTransform.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/EnumTransform.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Core/FromJSON.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/ISO8601DateTransform.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Core/Map.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Core/Mappable.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Core/Mapper.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/NSDecimalNumberTransform.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Core/Operators.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Core/ToJSON.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/TransformOf.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/TransformType.swift": !dirty [554406643, 0]
+  "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/ObjectMapper/ObjectMapper/Transforms/URLTransform.swift": !dirty [554406643, 0]

@@ -1,0 +1,141 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/GooglePlacesAPI/GooglePlacesAPI.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GooglePlacesAPI-Swift.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/GooglePlacesAPI/GooglePlacesAPI.framework/Headers/GooglePlacesAPI-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GooglePlacesAPI-umbrella.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/Target Support Files/GooglePlacesAPI/GooglePlacesAPI-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/GooglePlacesAPI/GooglePlacesAPI.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Intermediates/Pods.build/Debug-iphonesimulator/GooglePlacesAPI.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ObjectMapper-Swift.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ObjectMapper-umbrella.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Intermediates/Pods.build/Debug-iphonesimulator/ObjectMapper.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/Pods_MapsDirection.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-MapsDirection-umbrella.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/Target Support Files/Pods-MapsDirection/Pods-MapsDirection-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_MapsDirection-Swift.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/Pods_MapsDirection.framework/Headers/Pods_MapsDirection-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/Pods_MapsDirection.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MapsDirection.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/elizabethgentile/Desktop/Safe-Steps/DerivedData/MapsDirection/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
