@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "312b4c7f1f757c42e65c8b8c35ee41f2"
+build_time: [554502388, 486501000]
+inputs:
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/CustomDateFormatTransform.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/DataTransform.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/DateFormatterTransform.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/DateTransform.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/DictionaryTransform.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/EnumTransform.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Core/FromJSON.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/ISO8601DateTransform.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Core/Map.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Core/Mappable.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Core/Mapper.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/NSDecimalNumberTransform.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Core/Operators.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Core/ToJSON.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/TransformOf.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/TransformType.swift": [554407470, 0]
+  "/Users/elizabethgentile/Desktop/safe_steps_1.0/Pods/ObjectMapper/ObjectMapper/Transforms/URLTransform.swift": [554407470, 0]
